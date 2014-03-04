@@ -6,8 +6,8 @@
 #   gem 'sqlite3'
 
 login: &login
-  username: hnl
-  password: test44
+  username: spatial
+  password: spatial_password
 
 # This line is not compatible with the gem 'taps' used to sync the dataabse with heroku
 <%= file = File.join(Rails.root, "config", "dblogin.yml")
@@ -16,7 +16,7 @@ login: &login
 development:
   adapter: postgresql
   encoding: unicode
-  database: honoluluanswers_dev
+  database: postgres
   host: localhost
   pool: 5
   timeout: 5000

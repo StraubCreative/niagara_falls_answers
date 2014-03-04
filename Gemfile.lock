@@ -142,7 +142,7 @@ GEM
     mail (2.5.4)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
-    memcached (1.5.0)
+    memcached (1.7.2)
     meta-tags (1.2.6)
       actionpack
     meta_search (1.1.3)

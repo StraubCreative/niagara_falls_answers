@@ -68,3 +68,7 @@ end
 group :test do
   gem "sqlite3"                           # Use SQLite instead of PostgreSQL for tests
 end
+
+group :production do
+  gem 'rails_12factor'
+end

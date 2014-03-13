@@ -97,6 +97,8 @@ pagedown/wmd-buttons.png: pagedown/wmd-buttons-602988186fae08957e3293aaf9fb3dd0.
 pagedown/wmd-buttons/index.png: pagedown/wmd-buttons-602988186fae08957e3293aaf9fb3dd0.png
 active_admin.css: active_admin-031c3427b4f47c060fdd20c7a37d63c1.css
 active_admin/index.css: active_admin-031c3427b4f47c060fdd20c7a37d63c1.css
+application.css: application-68b561d3ceb3ad4c4463d9beb009b5e2.css
+application/index.css: application-68b561d3ceb3ad4c4463d9beb009b5e2.css
 blank/blank.aff: blank/blank-dfa2ee175dc43468ba065a64a4d9023c.aff
 blank/blank/index.aff: blank/blank-dfa2ee175dc43468ba065a64a4d9023c.aff
 blank/blank.dic: blank/blank-673c148fbfe47d31256737b4a766d9ce.dic
